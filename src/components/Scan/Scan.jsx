@@ -16,8 +16,8 @@ const Scan = () => {
       <div>
         <h6>Scan</h6>
         <p>
-          A square face has a broad, deep forehead, wide jaw line and square
-          chin.
+          Once we've identified your face shape, we curate a personalized selection of glasses that best suit you.
+            Say goodbye to the guesswork and hello to a range of glasses that enhance your features flawlessly.
         </p>
       </div>
     </div>

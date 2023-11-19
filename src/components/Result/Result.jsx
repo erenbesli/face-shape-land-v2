@@ -16,16 +16,13 @@ const Result = () => {
       <img src={ResultImage} alt='result' />
       <div>
         <p>
-          Heart-shaped faces have a broad forehead and wide cheekbones that
-          narrow down to a small chin. Lots of shapes will suit you, but your
-          goal is to choose frames that will provide contrast and balance to
-          your face.
+          we understand that finding the right glasses can transform not just your look,
+            but your confidence. Picture yourself in glasses that truly complement your unique
+            face shape. We're here to make that happen.
         </p>
         <p>
-          Heart-shaped faces have a broad forehead and wide cheekbones that
-          narrow down to a small chin. Lots of shapes will suit you, but your
-          goal is to choose frames that will provide contrast and balance to
-          your face.
+          Using cutting-edge facial recognition technology, our app analyzes your face shape in seconds.
+            Simply upload your photo, and voilà! Our advanced algorithms determine your face shape with precision.
         </p>
       </div>
     </div>

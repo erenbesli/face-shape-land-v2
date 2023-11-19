@@ -25,9 +25,11 @@ const Hero = ({ heroRef }) => {
         </div>
 
         <p>
-          Finding a flattering pair of glasses is easy if you know your face
-          shape. Simply select your face shape below to see our recommendations
-          for complementary frames
+          {/*Finding a flattering pair of glasses is easy if you know your face*/}
+          {/*shape. Simply select your face shape below to see our recommendations*/}
+          {/*for complementary frames*/}
+          we make finding the right glasses easy. Our app uses your photo to suggest glasses that match your face shape, helping you pick the perfect pair effortlessly.
+          No more guesswork or endless browsing. Just upload a photo, get personalized recommendations, and discover glasses that suit you best.
         </p>
         <button>Open Web App</button>
       </div>
